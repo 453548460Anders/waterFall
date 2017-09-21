@@ -15,6 +15,7 @@
 		71B3FF051F7386C20042F266 /* PullStramTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 71B3FF041F7386C20042F266 /* PullStramTests.swift */; };
 		71B3FF101F7386C20042F266 /* PullStramUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 71B3FF0F1F7386C20042F266 /* PullStramUITests.swift */; };
 		71B3FF1E1F7389580042F266 /* DWWaterFallFlowLayout.swift in Sources */ = {isa = PBXBuildFile; fileRef = 71B3FF1D1F7389580042F266 /* DWWaterFallFlowLayout.swift */; };
+		71B3FF221F739D270042F266 /* Dwang.swift in Sources */ = {isa = PBXBuildFile; fileRef = 71B3FF211F739D270042F266 /* Dwang.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		71B3FF0F1F7386C20042F266 /* PullStramUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PullStramUITests.swift; sourceTree = "<group>"; };
 		71B3FF111F7386C20042F266 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		71B3FF1D1F7389580042F266 /* DWWaterFallFlowLayout.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DWWaterFallFlowLayout.swift; sourceTree = "<group>"; };
+		71B3FF211F739D270042F266 /* Dwang.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Dwang.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -106,6 +108,7 @@
 				71B3FEF81F7386C20042F266 /* LaunchScreen.storyboard */,
 				71B3FEFB1F7386C20042F266 /* Info.plist */,
 				71B3FF1D1F7389580042F266 /* DWWaterFallFlowLayout.swift */,
+				71B3FF211F739D270042F266 /* Dwang.swift */,
 			);
 			path = PullStram;
 			sourceTree = "<group>";
@@ -268,6 +271,7 @@
 				71B3FF1E1F7389580042F266 /* DWWaterFallFlowLayout.swift in Sources */,
 				71B3FEF21F7386C20042F266 /* ViewController.swift in Sources */,
 				71B3FEF01F7386C20042F266 /* AppDelegate.swift in Sources */,
+				71B3FF221F739D270042F266 /* Dwang.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -520,6 +524,7 @@
 				71B3FF161F7386C20042F266 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		71B3FF171F7386C20042F266 /* Build configuration list for PBXNativeTarget "PullStramTests" */ = {
 			isa = XCConfigurationList;
@@ -528,6 +533,7 @@
 				71B3FF191F7386C20042F266 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		71B3FF1A1F7386C20042F266 /* Build configuration list for PBXNativeTarget "PullStramUITests" */ = {
 			isa = XCConfigurationList;
@@ -536,6 +542,7 @@
 				71B3FF1C1F7386C20042F266 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
